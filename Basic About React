@@ -1,0 +1,5 @@
+React.js is a front-end JavaScript library for building user interfaces. It was developed by Facebook and is maintained by Facebook and the open-source community. 
+In React, there are two types of components -
+Functional Components Class Component
+
+we have to import React to use entireity of the Library
